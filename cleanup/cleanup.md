@@ -53,5 +53,4 @@ Every resource you created is deleted or has a documented unresolved cleanup iss
 ## Acknowledgements
 
 * **Authors:** Satya Bhamidipati and Padma Priya Rajan Natarajan
-* **Source:** Oracle AI Database@Azure Enterprise Architecture demo script, dated May 20, 2026
-* **Last Updated By/Date:** Workshop adaptation, November 2026
+* **Last Updated:** October 2026
